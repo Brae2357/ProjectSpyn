@@ -12,3 +12,5 @@ Our team developed BasicallyWaymo, an autonomous robot inspired by Waymo's self-
 
 ## Team Credits
 BasicallyWaymo was developed by Braeden West, Samantha Gately, Manasi Tripathi, and Abdu Mohamed as part of the FSE 100 course at ASU.
+
+![BasicallyWaymo vehicle](BasicallyWaymoVehicle.jpg)
